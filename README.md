@@ -1,4 +1,4 @@
-# Bot-Te-Ayudo-
+# Bot Te Ayudo
 
 Nuestro proyecto, consta de un Bot implementado en varias plataformas, con el fin de ayudar a las personas con algunos consejos o tips, para
 que puedan tener un mejor manejo del estres o problemas de depresión.
